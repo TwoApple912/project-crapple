@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Lazer Receiver
   - Nutrient Soil
+  - Biological Gas
+  - Utility Object
+  - Tree
+  - Purifier
   layers:
   - Default
   - TransparentFX
@@ -18,7 +22,7 @@ TagManager:
   - Player
   - Semi-background
   - Tree
-  - 
+  - Biogas
   - 
   - 
   - 

@@ -123,7 +123,7 @@ GameObject:
   - component: {fileID: -7414439000494197995}
   - component: {fileID: -6388761639415350123}
   m_Layer: 2
-  m_Name: TreeTrunk
+  m_Name: TreeTrunkDiseased
   m_TagString: Tree
   m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -179,7 +179,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: bcb67a6fa92a82641897a8c185961417, type: 2}
+    - {fileID: 11400000, guid: f67c5b229dbb7b246bb4c765c2cc7f48, type: 2}
 --- !u!1 &7941800020174030941
 GameObject:
   m_ObjectHideFlags: 0

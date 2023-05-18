@@ -11,15 +11,13 @@ GameObject:
   - component: {fileID: 5752353590376533481}
   - component: {fileID: 3235741661888216356}
   - component: {fileID: 5141302631265145323}
-  - component: {fileID: 9093663160298227432}
   - component: {fileID: 5399292470325299649}
   - component: {fileID: 3449787376322973449}
   - component: {fileID: 8579775571119522574}
-  - component: {fileID: 1122658669158582181}
   - component: {fileID: 1813718888}
   m_Layer: 2
-  m_Name: Tree Seed
-  m_TagString: Untagged
+  m_Name: Purifier
+  m_TagString: Purifier
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -81,7 +79,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_Sprite: {fileID: -9095717837082945937, guid: bd3cb4af8406d4436a2ae8c2aafe1f8d, type: 3}
-  m_Color: {r: 0.12941177, g: 1, b: 0, a: 1}
+  m_Color: {r: 0, g: 0.666193, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -112,22 +110,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!58 &9093663160298227432
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7516323491945302024}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
-  m_Radius: 7
 --- !u!61 &5399292470325299649
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -138,7 +120,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.00015635788, y: -0.00086053833}
@@ -188,23 +170,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 78af6621744f8de44969bac330e6f698, type: 2}
---- !u!114 &1122658669158582181
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7516323491945302024}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _data:
-    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
-    _objectReferences:
-    - {fileID: 11400000, guid: 8ddfc6264b605c642b373030b4876a99, type: 2}
+    - {fileID: 11400000, guid: e3eb8a4fc477cc74586404638998b819, type: 2}
 --- !u!95 &1813718888
 Animator:
   serializedVersion: 5
