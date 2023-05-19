@@ -10,6 +10,7 @@ TagManager:
   - Utility Object
   - Tree
   - Purifier
+  - Seed
   layers:
   - Default
   - TransparentFX
