@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 604619182183011892}
   - component: {fileID: 604619182183011893}
   m_Layer: 6
-  m_Name: Vine Seed
+  m_Name: VineSeed
   m_TagString: Seed
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
