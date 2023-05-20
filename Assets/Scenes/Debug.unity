@@ -214,9 +214,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3449787376322973449, guid: dde442d98a7dd3e459e5d497e05f2dac, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"ThrowStrength","value":{"x":3.0,"y":2.0,"$type":"UnityEngine.Vector2"},"typeHandle":{"Identification":"UnityEngine.Vector2,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"seed_TreeProximity","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"seed_Poisoned","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"player_AllowGrab","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 5752353590376533481, guid: dde442d98a7dd3e459e5d497e05f2dac, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5752353590376533481, guid: dde442d98a7dd3e459e5d497e05f2dac, type: 3}
       propertyPath: m_LocalPosition.x
@@ -262,6 +270,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: TreeSeed
       objectReference: {fileID: 0}
+    - target: {fileID: 7516323491945302024, guid: dde442d98a7dd3e459e5d497e05f2dac, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7516323491945302024, guid: dde442d98a7dd3e459e5d497e05f2dac, type: 3}
+      propertyPath: m_TagString
+      value: Seed
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dde442d98a7dd3e459e5d497e05f2dac, type: 3}
 --- !u!1001 &542102360
@@ -273,7 +289,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5752353590376533481, guid: f7425a7f889a345489873d378e684174, type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5752353590376533481, guid: f7425a7f889a345489873d378e684174, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1313,7 +1329,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1694805884}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.3, y: -3.81, z: -10}
+  m_LocalPosition: {x: -7.285, y: -2.313, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1362,17 +1378,29 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3449787376322973449, guid: 373b8703ba53017428ff2ab295c1e67c, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Box","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"OGBoxLocation","value":{"x":0.0,"y":0.0,"$type":"UnityEngine.Vector2"},"typeHandle":{"Identification":"UnityEngine.Vector2,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"BoxFreeze","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ThrowStrength","value":{"x":3.0,"y":2.0,"$type":"UnityEngine.Vector2"},"typeHandle":{"Identification":"UnityEngine.Vector2,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Grabable","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"vineSeeded","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"poisonSeeded","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"player_AllowGrab","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 5752353590376533481, guid: 373b8703ba53017428ff2ab295c1e67c, type: 3}
       propertyPath: m_RootOrder
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5752353590376533481, guid: 373b8703ba53017428ff2ab295c1e67c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.14
+      value: -3.65
       objectReference: {fileID: 0}
     - target: {fileID: 5752353590376533481, guid: 373b8703ba53017428ff2ab295c1e67c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.48
+      value: -1.02
       objectReference: {fileID: 0}
     - target: {fileID: 5752353590376533481, guid: 373b8703ba53017428ff2ab295c1e67c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1429,11 +1457,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5607134353335139842, guid: 07fe331f7c2cdf04fb8582d7eba5d054, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.3
+      value: -7.285
       objectReference: {fileID: 0}
     - target: {fileID: 5607134353335139842, guid: 07fe331f7c2cdf04fb8582d7eba5d054, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.81
+      value: -2.313
       objectReference: {fileID: 0}
     - target: {fileID: 5607134353335139842, guid: 07fe331f7c2cdf04fb8582d7eba5d054, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1471,6 +1499,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crapple
       objectReference: {fileID: 0}
+    - target: {fileID: 5607134353335139870, guid: 07fe331f7c2cdf04fb8582d7eba5d054, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Speed","value":{"$content":5.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"JumpStrength","value":{"$content":10.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"object_LastObjectPickUp","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"object_CurrentPickUp","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 5607134353335139871, guid: 07fe331f7c2cdf04fb8582d7eba5d054, type: 3}
       propertyPath: m_Size.x
       value: 0.16122943
@@ -1494,11 +1530,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 604619182183011888, guid: 464ab1b1042fdbe4f9bb3ede0ce920fc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.31
+      value: -2.52
       objectReference: {fileID: 0}
     - target: {fileID: 604619182183011888, guid: 464ab1b1042fdbe4f9bb3ede0ce920fc, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.69
+      value: -4.61
       objectReference: {fileID: 0}
     - target: {fileID: 604619182183011888, guid: 464ab1b1042fdbe4f9bb3ede0ce920fc, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1531,6 +1567,13 @@ PrefabInstance:
     - target: {fileID: 604619182183011888, guid: 464ab1b1042fdbe4f9bb3ede0ce920fc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 604619182183011892, guid: 464ab1b1042fdbe4f9bb3ede0ce920fc, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"seed_Poisoned","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"ThrowStrength","value":{"x":0.0,"y":0.0,"$type":"UnityEngine.Vector2"},"typeHandle":{"Identification":"UnityEngine.Vector2,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"player_AllowGrab","value":{"$content":true,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 604619182183011894, guid: 464ab1b1042fdbe4f9bb3ede0ce920fc, type: 3}
       propertyPath: m_Name
