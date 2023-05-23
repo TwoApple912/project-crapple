@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 604619182183011891}
   - component: {fileID: 604619182183011892}
   - component: {fileID: 604619182183011893}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: VineSeed
   m_TagString: Seed
   m_Icon: {fileID: 0}

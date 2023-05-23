@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 8579775571119522574}
   - component: {fileID: 1813718888}
   - component: {fileID: 542102362}
-  m_Layer: 2
+  m_Layer: 7
   m_Name: Purifier
   m_TagString: Purifier
   m_Icon: {fileID: 0}

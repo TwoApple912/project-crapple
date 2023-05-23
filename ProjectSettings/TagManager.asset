@@ -12,6 +12,9 @@ TagManager:
   - Purifier
   - Seed
   - PickUpReset
+  - Dialogue Trigger
+  - Dialogue
+  - Dialogue Manager
   layers:
   - Default
   - TransparentFX

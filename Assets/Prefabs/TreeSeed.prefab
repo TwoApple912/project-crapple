@@ -97,7 +97,7 @@ GameObject:
   - component: {fileID: 8579775571119522574}
   - component: {fileID: 1122658669158582181}
   - component: {fileID: 1813718888}
-  m_Layer: 2
+  m_Layer: 7
   m_Name: TreeSeed
   m_TagString: Seed
   m_Icon: {fileID: 0}
