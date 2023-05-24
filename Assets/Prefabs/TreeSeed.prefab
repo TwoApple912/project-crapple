@@ -96,7 +96,6 @@ GameObject:
   - component: {fileID: 3449787376322973449}
   - component: {fileID: 8579775571119522574}
   - component: {fileID: 1122658669158582181}
-  - component: {fileID: 1813718888}
   m_Layer: 7
   m_Name: TreeSeed
   m_TagString: Seed
@@ -259,23 +258,3 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 8ddfc6264b605c642b373030b4876a99, type: 2}
---- !u!95 &1813718888
-Animator:
-  serializedVersion: 5
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7516323491945302024}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 167d2a278553c6e4ab7db57bf4134d80, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
