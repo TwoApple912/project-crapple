@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ebe9b83059095d640bc0e0b3fdb78a10
+guid: 90f039db3bf80994a9c80b316be28a8e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,202 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Box Freezes_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 35
-        width: 35
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ec0a4b7d5edcfd47811d60a85aa0d2f
-      internalID: -1921642675
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Box Freezes_1
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 35
-        width: 35
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7298885de570b67449e473a453b130c9
-      internalID: 996211652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Box Freezes_2
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 35
-        width: 35
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8aa23efeab15ed343a40fc65bc570b03
-      internalID: -1591665058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Box Freezes_3
-      rect:
-        serializedVersion: 2
-        x: 105
-        y: 35
-        width: 35
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 423914011077b8b4cb6c998f97596082
-      internalID: 309293552
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Box Freezes_4
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 35
-        width: 35
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 11ed7ba485156ee4a905fceec2a54c66
-      internalID: 89688883
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Box Freezes_5
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 35
-        width: 35
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00d3f5be8ea6f03459fd897afd7452e7
-      internalID: 915421926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Box Freezes_6
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 35
-        width: 35
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9caca4cff6246764ca1cddf9089f80df
-      internalID: -1572335834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Box Freezes_7
-      rect:
-        serializedVersion: 2
-        x: 245
-        y: 35
-        width: 35
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 47091b95b0f5486468409f4a27b85e06
-      internalID: 1707147283
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Box Freezes_8
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 35
-        width: 35
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 33621519598bf994db7d45a9f9d406fe
-      internalID: -174278428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Box Freezes_9
+      name: "New Better Tr\xEA_0"
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 35
-        height: 35
+        width: 50
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -320,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c1757de7f835494f945a5025d492da4
-      internalID: 1967461031
+      spriteID: 7446f1dcc66a0484f81d36976dd84c17
+      internalID: -1600277790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Box Freezes_10
+      name: "New Better Tr\xEA_1"
       rect:
         serializedVersion: 2
-        x: 35
+        x: 50
         y: 0
-        width: 35
-        height: 35
+        width: 50
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -341,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a698814ea1b575544aa88be67a407067
-      internalID: -1010553557
+      spriteID: cf403e0abdfe0f545b0535eb1cf5004f
+      internalID: -991929
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Box Freezes_11
+      name: "New Better Tr\xEA_2"
       rect:
         serializedVersion: 2
-        x: 70
+        x: 100
         y: 0
-        width: 35
-        height: 35
+        width: 50
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d162dc109c7acd744b0daf588c9ba03b
-      internalID: 339443516
+      spriteID: 0a5f55c752bbbd4489002501d89c4788
+      internalID: -725922168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Box Freezes_12
+      name: "New Better Tr\xEA_3"
       rect:
         serializedVersion: 2
-        x: 105
+        x: 150
         y: 0
-        width: 35
-        height: 35
+        width: 50
+        height: 80
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -383,8 +194,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68bad237de38b0247a08e72a63b38ca6
-      internalID: 1301030230
+      spriteID: b3fec8b79d4a8454dbc71027323cf065
+      internalID: -321050348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "New Better Tr\xEA_4"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123832c853d4bbe449523ad6e9c1ca70
+      internalID: 1551361826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "New Better Tr\xEA_5"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee65ef1b4afad740acdb351e89a960b
+      internalID: 407567956
       vertices: []
       indices: 
       edges: []
@@ -400,19 +253,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Box Freezes_0: -1921642675
-      Box Freezes_1: 996211652
-      Box Freezes_10: -1010553557
-      Box Freezes_11: 339443516
-      Box Freezes_12: 1301030230
-      Box Freezes_2: -1591665058
-      Box Freezes_3: 309293552
-      Box Freezes_4: 89688883
-      Box Freezes_5: 915421926
-      Box Freezes_6: -1572335834
-      Box Freezes_7: 1707147283
-      Box Freezes_8: -174278428
-      Box Freezes_9: 1967461031
+      "New Better Tr\xEA_0": -1600277790
+      "New Better Tr\xEA_1": -991929
+      "New Better Tr\xEA_2": -725922168
+      "New Better Tr\xEA_3": -321050348
+      "New Better Tr\xEA_4": 1551361826
+      "New Better Tr\xEA_5": 407567956
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
