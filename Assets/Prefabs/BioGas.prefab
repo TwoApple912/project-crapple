@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6788012613644372197}
   - component: {fileID: 6788012613644372193}
   - component: {fileID: 6788012613644372192}
+  - component: {fileID: 1485462854}
   m_Layer: 11
   m_Name: BioGas
   m_TagString: Biological Gas
@@ -29,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 6788012613644372218}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.83, y: -3.28, z: 0}
-  m_LocalScale: {x: 2.6008964, y: 2.4511073, z: 1}
+  m_LocalScale: {x: 3.2797303, y: 3.0908463, z: 1.261}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -73,10 +74,10 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_SortingLayerID: -1046371585
+  m_SortingLayer: 1
+  m_SortingOrder: 2
+  m_Sprite: {fileID: -1725732571, guid: 8dd31a180c7f19549b825a06a243f305, type: 3}
   m_Color: {r: 0.8858712, g: 0.6839622, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -100,18 +101,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.027840137, y: -0.025848731}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 0.96, y: 0.96}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.6867982, y: 0.68242884}
   m_EdgeRadius: 0
 --- !u!114 &6788012613644372193
 MonoBehaviour:
@@ -144,3 +145,23 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: c4a8096139143b04fa3bbef45965339c, type: 2}
+--- !u!95 &1485462854
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6788012613644372218}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6549365ccee76c640a00b1a65f8b3194, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
