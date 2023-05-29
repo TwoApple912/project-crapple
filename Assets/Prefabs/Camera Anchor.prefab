@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4458914042816049401}
   - component: {fileID: 4458914042816049400}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: CM vcam1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -83,7 +83,7 @@ GameObject:
   - component: {fileID: 4458914043793467428}
   - component: {fileID: 4458914043793467429}
   - component: {fileID: 4458914043793467426}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: cm
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -178,7 +178,7 @@ GameObject:
   - component: {fileID: 2550336373015657475}
   - component: {fileID: 2818947306179054860}
   - component: {fileID: 4526276544212047988}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Camera Anchor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
