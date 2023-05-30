@@ -1,0 +1,695 @@
+fileFormatVersion: 2
+guid: 7d3bdd4199acbaa4dabb77ead32133ac
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 277
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45db7100824384b44971987081bb04cb
+      internalID: 1891359696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 277
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d320c6fcaf4014a8d395c759ed38e4
+      internalID: -925505430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 277
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d8aa4586974254fb0520d3822e47a0
+      internalID: -856544467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 277
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab66bf3dd2933af498f7ed562cccb763
+      internalID: 1946710992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 277
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e4e354b0905834fbf4ae35afb4cd4f
+      internalID: 1141570733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 277
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50d6febe83aa4749992bc5bf51bd037
+      internalID: -1542908417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b150bb124388b4a9d584ba6940a6a6
+      internalID: -1387263929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 208
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50c5d0a4de080c40a815c3b47ea12d4
+      internalID: 1555109410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 208
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36771d732ec8af049bb3e87df82274e4
+      internalID: -1703667017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 208
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcd0167973a7af4b955171dcce02771
+      internalID: 1612497287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 208
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162d9013f5c1a1f40bbd42d72de61f91
+      internalID: -1472627424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 208
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b94323978b2164aa3d29f4e4f87ae3
+      internalID: 1910612580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 139
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b17558d301260647bb10e220cec2a24
+      internalID: 1621549785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 139
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1314f02752c709499f6cc333c516ff8
+      internalID: -1343485577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 139
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21223d6f41524f40aaa25d36a38c0e8
+      internalID: 97881290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 139
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663a85d4eaa2feb4e9960a575e04a114
+      internalID: 1570803299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 139
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816ab4887d28291479b110fae42fb8b7
+      internalID: -1121523990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 139
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcbaa4fd87e3724c98cc39002404fc8
+      internalID: 1529107041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae937180bb5df034684932b1b22dcf4c
+      internalID: -1500995316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 70
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8646c8775c090fb4faf63d744e60da72
+      internalID: -906146902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 70
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1e391b20722594f950813ef2f46b83
+      internalID: -137871105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 70
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e0f94f58e05d74f8c94465de06df99
+      internalID: 112988118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 70
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f91518d2f1f78147bb4cb22b3ab93ae
+      internalID: 738945710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 70
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da9dbf51869b7c4ea5e7876a89ee543
+      internalID: -286485371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8141ef1fabb88b4cb05b6bca4e5a9d6
+      internalID: -64065242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BP oil spill background 202 x 69-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1
+        width: 200
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88f2da99f06fbd4e8b69c32aa12b4cd
+      internalID: -565823974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BP oil spill background 202 x 69-Sheet_0: 1891359696
+      BP oil spill background 202 x 69-Sheet_1: -925505430
+      BP oil spill background 202 x 69-Sheet_10: -1472627424
+      BP oil spill background 202 x 69-Sheet_11: 1910612580
+      BP oil spill background 202 x 69-Sheet_12: 1621549785
+      BP oil spill background 202 x 69-Sheet_13: -1343485577
+      BP oil spill background 202 x 69-Sheet_14: 97881290
+      BP oil spill background 202 x 69-Sheet_15: 1570803299
+      BP oil spill background 202 x 69-Sheet_16: -1121523990
+      BP oil spill background 202 x 69-Sheet_17: 1529107041
+      BP oil spill background 202 x 69-Sheet_18: -1500995316
+      BP oil spill background 202 x 69-Sheet_19: -906146902
+      BP oil spill background 202 x 69-Sheet_2: -856544467
+      BP oil spill background 202 x 69-Sheet_20: -137871105
+      BP oil spill background 202 x 69-Sheet_21: 112988118
+      BP oil spill background 202 x 69-Sheet_22: 738945710
+      BP oil spill background 202 x 69-Sheet_23: -286485371
+      BP oil spill background 202 x 69-Sheet_24: -64065242
+      BP oil spill background 202 x 69-Sheet_25: -565823974
+      BP oil spill background 202 x 69-Sheet_3: 1946710992
+      BP oil spill background 202 x 69-Sheet_4: 1141570733
+      BP oil spill background 202 x 69-Sheet_5: -1542908417
+      BP oil spill background 202 x 69-Sheet_6: -1387263929
+      BP oil spill background 202 x 69-Sheet_7: 1555109410
+      BP oil spill background 202 x 69-Sheet_8: -1703667017
+      BP oil spill background 202 x 69-Sheet_9: 1612497287
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
