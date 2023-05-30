@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ff1d86e5d6c12b44182852028f991e47
+guid: c0a7e2ebcddb34340baa1dfedbf8972c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,13 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Lazer Receiver Activated_0
+      name: BioGas_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 21
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1364ce07fd95ce247b0c1828d67d7aa6
-      internalID: -1370149052
+      spriteID: ebce33df48cb308499201096535d64b7
+      internalID: -572204174
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lazer Receiver Activated_1
+      name: BioGas_1
       rect:
         serializedVersion: 2
-        x: 21
+        x: 32
         y: 0
-        width: 21
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,20 +152,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04213746374dfbb42af737b4831a6348
-      internalID: 543762057
+      spriteID: 5b29e4cd604daa840a1e42cb187ea164
+      internalID: -1744061842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lazer Receiver Activated_2
+      name: BioGas_2
       rect:
         serializedVersion: 2
-        x: 42
+        x: 64
         y: 0
-        width: 21
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +173,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1929930cba5ec4419d9a0a6e835e634
-      internalID: -1879204395
+      spriteID: 6ee93509837c9474fb8d61b872bd9cbb
+      internalID: 402477834
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lazer Receiver Activated_3
+      name: BioGas_3
       rect:
         serializedVersion: 2
-        x: 63
+        x: 96
         y: 0
-        width: 21
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,20 +194,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df5bd9ea6c66a924e83ab3557f8efce3
-      internalID: -491067890
+      spriteID: c978604dd691ea84987bc2f5a0aec600
+      internalID: -645216066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lazer Receiver Activated_4
+      name: BioGas_4
       rect:
         serializedVersion: 2
-        x: 84
+        x: 128
         y: 0
-        width: 21
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,20 +215,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab8c519db4473ef4fa5ba2608cdddb34
-      internalID: 26119050
+      spriteID: e6e8b71f6d0f35b46b1568d45b83db1d
+      internalID: 1082740683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lazer Receiver Activated_5
+      name: BioGas_5
       rect:
         serializedVersion: 2
-        x: 105
+        x: 160
         y: 0
-        width: 21
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -236,20 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 012cf1b2c17588d46b029d37879e0b3e
-      internalID: -582882662
+      spriteID: 3574398499ac07e44aadf8ef26826e4f
+      internalID: 2106111272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lazer Receiver Activated_6
+      name: BioGas_6
       rect:
         serializedVersion: 2
-        x: 126
+        x: 192
         y: 0
-        width: 21
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba29005acaecff04f9b805b9d8a32589
-      internalID: 497580757
+      spriteID: 0e1f7adcef4114544bb9fa1ff0e136bc
+      internalID: 1999800325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lazer Receiver Activated_7
+      name: BioGas_7
       rect:
         serializedVersion: 2
-        x: 147
+        x: 224
         y: 0
-        width: 21
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,20 +278,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b481d0e4abf6e2b4fa846957a6adae68
-      internalID: -1968707156
+      spriteID: 6dc14ea42b91748469c194e051c31ffc
+      internalID: -87626761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lazer Receiver Activated_8
+      name: BioGas_8
       rect:
         serializedVersion: 2
-        x: 168
+        x: 256
         y: 0
-        width: 21
-        height: 21
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,8 +299,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 900391f6524173248a1fe4947680dd9f
-      internalID: 892472511
+      spriteID: 204bba799c1888f4896303e4530ccaa2
+      internalID: 1457059414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BioGas_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc0b7667dd4ea547b7dd90a95caf237
+      internalID: 860415641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BioGas_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73b4a12b6d7e604cbdc1cc2d3f0dfde
+      internalID: 66331814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BioGas_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31205c72a33fafa49a02a4698495af69
+      internalID: 2136678792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BioGas_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86403a012c354484db51f05cbda47062
+      internalID: 1775431656
       vertices: []
       indices: 
       edges: []
@@ -316,15 +400,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Lazer Receiver Activated_0: -1370149052
-      Lazer Receiver Activated_1: 543762057
-      Lazer Receiver Activated_2: -1879204395
-      Lazer Receiver Activated_3: -491067890
-      Lazer Receiver Activated_4: 26119050
-      Lazer Receiver Activated_5: -582882662
-      Lazer Receiver Activated_6: 497580757
-      Lazer Receiver Activated_7: -1968707156
-      Lazer Receiver Activated_8: 892472511
+      BioGas_0: -572204174
+      BioGas_1: -1744061842
+      BioGas_10: 66331814
+      BioGas_11: 2136678792
+      BioGas_12: 1775431656
+      BioGas_2: 402477834
+      BioGas_3: -645216066
+      BioGas_4: 1082740683
+      BioGas_5: 2106111272
+      BioGas_6: 1999800325
+      BioGas_7: -87626761
+      BioGas_8: 1457059414
+      BioGas_9: 860415641
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
