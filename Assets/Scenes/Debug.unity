@@ -2906,11 +2906,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5607134353335139842, guid: 07fe331f7c2cdf04fb8582d7eba5d054, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.43
+      value: 26.13
       objectReference: {fileID: 0}
     - target: {fileID: 5607134353335139842, guid: 07fe331f7c2cdf04fb8582d7eba5d054, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.78
+      value: -6.88
       objectReference: {fileID: 0}
     - target: {fileID: 5607134353335139842, guid: 07fe331f7c2cdf04fb8582d7eba5d054, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3292,7 +3292,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1694805884}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.43, y: -3.78, z: -10}
+  m_LocalPosition: {x: 26.13, y: -6.88, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -4091,7 +4091,7 @@ Tilemap:
       - {fileID: -600190866, guid: 21c3cb06e27991c4baf9624013f7dfbd, type: 3}
       - {fileID: 1413034708, guid: 21c3cb06e27991c4baf9624013f7dfbd, type: 3}
       - {fileID: -1181083488, guid: 21c3cb06e27991c4baf9624013f7dfbd, type: 3}
-      m_AnimationSpeed: 6.254813
+      m_AnimationSpeed: 5.455417
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 20, y: -9, z: 0}
@@ -4112,7 +4112,7 @@ Tilemap:
       - {fileID: 1651912424, guid: 21c3cb06e27991c4baf9624013f7dfbd, type: 3}
       - {fileID: 1521102201, guid: 21c3cb06e27991c4baf9624013f7dfbd, type: 3}
       - {fileID: -1915221855, guid: 21c3cb06e27991c4baf9624013f7dfbd, type: 3}
-      m_AnimationSpeed: 6.8846745
+      m_AnimationSpeed: 5.4661756
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 21, y: -9, z: 0}
@@ -4133,7 +4133,7 @@ Tilemap:
       - {fileID: 1651912424, guid: 21c3cb06e27991c4baf9624013f7dfbd, type: 3}
       - {fileID: 1521102201, guid: 21c3cb06e27991c4baf9624013f7dfbd, type: 3}
       - {fileID: -1915221855, guid: 21c3cb06e27991c4baf9624013f7dfbd, type: 3}
-      m_AnimationSpeed: 6.21312
+      m_AnimationSpeed: 6.7025366
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 22, y: -9, z: 0}
@@ -4154,7 +4154,7 @@ Tilemap:
       - {fileID: 1674859616, guid: 21c3cb06e27991c4baf9624013f7dfbd, type: 3}
       - {fileID: -561592532, guid: 21c3cb06e27991c4baf9624013f7dfbd, type: 3}
       - {fileID: -502516797, guid: 21c3cb06e27991c4baf9624013f7dfbd, type: 3}
-      m_AnimationSpeed: 6.754731
+      m_AnimationSpeed: 6.3600087
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   m_TileAssetArray:
@@ -4400,6 +4400,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 588240054}
     m_Modifications:
+    - target: {fileID: 3248412510055899898, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3248412510232376637, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
       propertyPath: m_Name
       value: Menu
@@ -4488,6 +4492,50 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3248412511333467428, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 464.0247
+      objectReference: {fileID: 0}
+    - target: {fileID: 3248412511333467428, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 379.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 3248412511333467428, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 210.41718
+      objectReference: {fileID: 0}
+    - target: {fileID: 3248412511333467428, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -27.710495
+      objectReference: {fileID: 0}
+    - target: {fileID: 3248412511333467431, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
+      propertyPath: m_fontSize
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 3248412511333467431, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 638f8e2a95f12e442aed6a91b01039f6, type: 2}
+    - target: {fileID: 3248412511333467431, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3248412511333467431, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3248412511333467431, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3248412511333467431, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 3248412511333467431, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -3310193517127569079, guid: 638f8e2a95f12e442aed6a91b01039f6, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a8f25a83451b204f96996072bdc7b58, type: 3}
 --- !u!1001 &3465748406103419819

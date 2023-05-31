@@ -33,14 +33,42 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"menu_Panel","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"menu_DetailPanel","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"menu_CurrentCollectible","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"menu_CollectiblesDesc","value":{"$content":["\"What
-      a f****** ******\" - Pewdiepie, 2017 ","","","",""],"$type":"System.Collections.Generic.List`1[[System.String,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"menu_CollectiblesDesc","value":{"$content":["20
+      April 2010, the Deep Water Horizon former oil rig located in the Gulf of Mexico
+      exploded, causing the rig to sink on the 22nd. The incident caused 134 millions
+      gallons of oil to spill into the ocean, extending 149 millions square km over
+      the Gulf of Mexico. Here at E.R.A lab, we\u2019ve successfully created a filtering
+      device that is capable of extracting 2 thousands barrels per day with a single
+      unit. This will minimize the environmental effects of future similar incidents.","On
+      22 August 2022, illegal landowners burned the Amazon rainforest to clear land
+      for other uses. The fire burned almost 1 million hectares of rainforest, causing
+      major effects on the environment. It is but one of many examples of deforestation
+      around the world. E.R.A lab has invented the \u201cBlue water\u201d, which
+      bursts out CO2 gas effective for extinguishing fire upon splash.","Various
+      nuclear power plants around the world have provided a safe and abundant energy
+      supply for the former human civilization. But as inhospitable as the Earth
+      is now, there isn\u2019t any worker to maintain and dispose of waste produced
+      by these power plants. Stay away from any potential radioactive site as we
+      haven\u2019t figured out a way to purify these substances yet. ","On February
+      3rd, 2023 a train carrying hazardous chemicals derailed in East Palestine,
+      a town 50 Miles Northwest of Pittsburgh. The incident caused eye irritation
+      and rash lungs for the residents around the derailment site. At least 1 500
+      residents were evacuated from the area. E.R.A has developed a type of gas that
+      can reduce the density of air, this gas can be deployed in similar future incidents
+      to disperse of toxic gasses.","Sample Vin-117 is a genetically modified tomato
+      plant. A growth gene was transplanted into the tomato seed, resulting in a
+      significant growth rate. When the plant reached adulthood, no fruit production
+      was observed, deeming this another failed product\u2026"],"$type":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[System.String,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]],
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"menu_CollectiblesImg","value":{"$content":[{"$content":1,"$type":"UnityEngine.Object"},null,null,null,null],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"menu_CollectiblesImg","value":{"$content":[{"$content":1,"$type":"UnityEngine.Object"},{"$content":2,"$type":"UnityEngine.Object"},{"$content":3,"$type":"UnityEngine.Object"},{"$content":4,"$type":"UnityEngine.Object"},{"$content":5,"$type":"UnityEngine.Object"}],"$type":"Unity.VisualScripting.AotList"},"typeHandle":{"Identification":"Unity.VisualScripting.AotList,
       Unity.VisualScripting.Core, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"respawn_Position","value":null,"typeHandle":{"Identification":"UnityEngine.Transform,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"isJumping","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 5607134353335139868, guid: 07fe331f7c2cdf04fb8582d7eba5d054, type: 3}
-    - {fileID: 21300000, guid: 9838220706202d24a8d066319be021b8, type: 3}
+    - {fileID: 21300000, guid: 81e1a8646ec82744aabf606167111810, type: 3}
+    - {fileID: 21300000, guid: 984e97fb283362c4e954c9d4b4e1402b, type: 3}
+    - {fileID: 21300000, guid: f4b8f5dcf36ba894c88d5768f484e07d, type: 3}
+    - {fileID: 21300000, guid: 98bf350c65849ef4795ebcd151a67d4c, type: 3}
+    - {fileID: 21300000, guid: b0cfde2adf6995848a96d03d40f1c014, type: 3}
