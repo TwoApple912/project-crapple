@@ -17,6 +17,8 @@ TagManager:
   - Dialogue Manager
   - Collectibles Main Panel
   - Collectibles Detail Panel
+  - oil spill paper
+  - amazon burning
   layers:
   - Default
   - TransparentFX
@@ -30,7 +32,7 @@ TagManager:
   - Semi-background
   - Tree
   - Biogas
-  - 
+  - voice
   - 
   - 
   - 
