@@ -19,6 +19,7 @@ TagManager:
   - Collectibles Detail Panel
   - oil spill paper
   - amazon burning
+  - Voice Manager
   layers:
   - Default
   - TransparentFX
