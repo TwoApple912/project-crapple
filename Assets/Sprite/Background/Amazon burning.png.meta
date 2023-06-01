@@ -101,6 +101,18 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -566,6 +578,90 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Amazon burning_22
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1
+        width: 52
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45633b9ef1e8cf46b5642e1fde057d5
+      internalID: 6380454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon burning_23
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1
+        width: 52
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e13eaa110ddaf74c99a40c8d7a97323
+      internalID: 254921861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon burning_24
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1
+        width: 52
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428aee3763158be49b0fb143d0a9272a
+      internalID: 32143466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amazon burning_25
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1
+        width: 52
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa572e033af6fc740a33b4f51dd0eea3
+      internalID: -2042951119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -592,6 +688,10 @@ TextureImporter:
       Amazon burning_2: 2141140121
       Amazon burning_20: -2124948974
       Amazon burning_21: -595945996
+      Amazon burning_22: 6380454
+      Amazon burning_23: 254921861
+      Amazon burning_24: 32143466
+      Amazon burning_25: -2042951119
       Amazon burning_3: 240056491
       Amazon burning_4: 564195015
       Amazon burning_5: 543227834
